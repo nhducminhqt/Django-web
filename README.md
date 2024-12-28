@@ -1,1 +1,1 @@
-dijanggo web
+Django-web
